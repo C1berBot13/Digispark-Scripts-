@@ -26,4 +26,4 @@ Captura as senhas WI-FI salvas no computador e as manda para o seu webhook ( ent
 1. modifique a linha de código 27 e cole a sua URL gerada pelo webhook, depois é só plugar o digispark e e esperar o led vermelho acender
 2. Após isso é só abrir sua url de webhook e o as senhas capturadas estarão lá
 
-http://docs.m5stack.com/en/core/M5StickC%20PLUS2
+
